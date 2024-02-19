@@ -18,7 +18,7 @@ This project develops an Online Shopping Database Management System, leveraging 
 3. Run Python scripts for admin and customer applications in.
 
 ## Documentation
-- `ERD.pdf` in `main` visualizes the database structure.
+- `ERD.pdf` in `ERD` visualizes the database structure.
 - SQL DDL scripts in `/SQL DDL`.
 - Source code in `main`.
 
