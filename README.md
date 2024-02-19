@@ -1,4 +1,5 @@
 # Online Shopping Database Management System
+<img src="https://github.com/omerskoc/Online-Shopping-Database-Management-System/assets/48410284/030eb5a9-9464-41f3-bb31-fa3b254f291d" width="400">
 
 ![pphoto](https://github.com/omerskoc/Online-Shopping-Database-Management-System/assets/48410284/030eb5a9-9464-41f3-bb31-fa3b254f291d)
 
