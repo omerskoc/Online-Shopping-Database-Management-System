@@ -24,6 +24,3 @@ This project develops an Online Shopping Database Management System, leveraging 
 
 ## Contributions
 Contributions are welcome.
-
-## License
-Licensed under the MIT License. See LICENSE.md for details.
