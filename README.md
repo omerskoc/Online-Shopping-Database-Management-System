@@ -1,7 +1,6 @@
 # Online Shopping Database Management System
-<img src="https://github.com/omerskoc/Online-Shopping-Database-Management-System/assets/48410284/030eb5a9-9464-41f3-bb31-fa3b254f291d" width="400">
 
-![pphoto](https://github.com/omerskoc/Online-Shopping-Database-Management-System/assets/48410284/030eb5a9-9464-41f3-bb31-fa3b254f291d)
+<img src="https://github.com/omerskoc/Online-Shopping-Database-Management-System/assets/48410284/030eb5a9-9464-41f3-bb31-fa3b254f291d" width="400">
 
 ## Overview
 This project develops an Online Shopping Database Management System, leveraging MySQL for database management and Python for application development. It offers comprehensive features for e-commerce such as user data management, product tracking, inventory control, and customer reviews.
